@@ -1,2 +1,2 @@
 # estudos-inicias
- estudo inicial basico de python
+ estudo inicial basico de python ///
