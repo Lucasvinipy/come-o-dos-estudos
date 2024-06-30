@@ -1,0 +1,5 @@
+print("Progama da soma")
+x1=float(input("digite primeiro numero:"))
+x2=float(input('digite segundo numero:'))
+p=(x1+x2)
+print('a soma dos numeros',x1,'mais',x2,'é',p,)
