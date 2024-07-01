@@ -45,4 +45,30 @@ Comecei conciliando o curso do Gustavo Guanabara e faculdade de ADS.
 
 #### Estruturas de reptição
 
--
+- **exercicio 32**:[loja sr manuel](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/32.py)
+- **exercicio 33**:[super casdastro](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/33.py)
+- **exercicio 34**:[notas alunos](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/34.py)
+- **exercicio 35**:[tabuada](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/35.py)
+- **exercicio 36**:[maiores e menores](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/36.py)
+- **exercicio 37**:[calcular ate 500](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/37.py)
+- **exercicio 38**:[analise de numeros](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/38.py)
+- **exercicio 39**:[saltos atleta](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/39.py)
+- **exercicio 40**:[receita federal](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/40.py)
+- **exercicio 41**:[numeros inteiros](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/41.py)
+- **exercicio 42**:[mini-jogo](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/42.PY)
+- **exercicio 43**:[soma infinita](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/43.PY)
+- **exercicio 44**:[calculadora completa](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/44.py)
+- **exercicio 45**:[peso ideal](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/45.py)
+- **exercicio 46**:[maiores e menores](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/46.py)
+- **exercicio 47**:[listas](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/47.py)
+- **exercicio 48**:[jogo par ou impar](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/48.py)
+- **exercicio 49**:[progama do genero](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/49.py)
+- **exercicio 50**:[loja super baratão](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/50.py)
+- **exercicio 51**:[hospedagem](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/51.py)
+- **exercicio 52**:[matriz](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/52.py)
+- **exercicio 53**:[palindrono](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/53.py)
+- **exercicio 54**:[progressão aritimetica](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/54.py)
+- **exercicio 55**:[tabuada outra](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/56.py)
+
+- 
+
