@@ -42,4 +42,7 @@ Comecei conciliando o curso do Gustavo Guanabara e faculdade de ADS.
 - **exercicio 29**:[par ou impar](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/29.py)
 - **exercicio 30**:[mini jogo](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/30.py)
 - **exercicio 31**:[media aluno](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/31.py)
-- 
+
+#### Estruturas de reptição
+
+-
