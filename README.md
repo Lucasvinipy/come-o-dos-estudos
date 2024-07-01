@@ -98,3 +98,19 @@ Comecei conciliando o curso do Gustavo Guanabara e faculdade de ADS.
 - **exercicio 82**:[cadastro com dicionarios](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/82.py)
 - **exercicio 83**:[sistema de alunos](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/83.py)
 
+
+### DEF
+
+- **exercicio 84**:[FATORIAL  ](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/84.py)
+- **exercicio 85**:[AREA DE UM TERRENO](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/85.py)
+- **exercicio 86**:[ALETRANDO FRASES](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/86.py)
+- **exercicio 87**:[ESCOLHENDO SEQUENCIAS](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/87.py)
+- **exercicio 88**:[VOTO IDADE](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/88.py)
+- **exercicio 89**:[JOGADOR](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/89.py)
+- **exercicio 90**:[NUMEROS DEF](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/90.py)
+- **exercicio 91**:[NOTAS DEF](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/91.py)
+- **exercicio 92**:[LENDO UM NUEMERO](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/92.py)
+- **exercicio 93**:[PARES OU IMPARES](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/93.py)
+
+
+
