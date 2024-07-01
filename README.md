@@ -34,7 +34,7 @@ Comecei conciliando o curso do Gustavo Guanabara e faculdade de ADS.
 
 - **exercicio 22**:[alistamento](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/22.py)
 - **exercicio 23**:[emprestimo bancario](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/23.py)
-- **exercicio 24**:[emprestimo casa] (https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/24.py)
+- **exercicio 24**:[emprestimo casa](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/24.py)
 - **exercicio 25**:[testando numeros](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/25.py)
 - **exercicio 26**:[peso](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/26.py)
 - **exercicio 27**:[testando listas](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/27.py)
