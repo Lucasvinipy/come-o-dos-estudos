@@ -111,6 +111,15 @@ Comecei conciliando o curso do Gustavo Guanabara e faculdade de ADS.
 - **exercicio 91**:[NOTAS DEF](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/91.py)
 - **exercicio 92**:[LENDO UM NUEMERO](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/92.py)
 - **exercicio 93**:[PARES OU IMPARES](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/93.py)
+- **exercicio 94**:[NUMEROS PRIMOS](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/94.py)
+- **exercicio 95**:[CONVERTER MOEDA](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/95.py)
+- **exercicio 96**:[GORJETA](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/96.py)
+- **exercicio 97**:[CONVERSOR DE GRAUS](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/97.py)
+- **exercicio 98**:[ANO ](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/98.py)
+- **exercicio 99**:[GERADOR DE SENHA](https://github.com/Lucasvinipy/come-o-dos-estudos/blob/main/download/script%20python/99.py)
+
+- 
+
 
 
 
