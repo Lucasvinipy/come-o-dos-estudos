@@ -4,7 +4,7 @@ def eh_bissexto(ano):
     else:
         return False
 
-# Teste a função
+
 ano = int(input('Digite um ano: '))
 if eh_bissexto(ano):
     print(f'O ano {ano} é bissexto.')
